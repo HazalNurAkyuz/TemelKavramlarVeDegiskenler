@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class StringVeriTipi {
+public class StringVeriTipi {
+    public static void main(String[] args) {
+
+        String str = "Hello World";
+        System.out.println(str);
+
+    }
+
 }
